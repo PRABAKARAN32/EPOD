@@ -1,0 +1,407 @@
+{
+  "INVENTORY": [
+    {
+      "BRAND": "Avil",
+      "CATEGORY": "Tablet",
+      "NAME": "T. Avil",
+      "QUANTITY": 10,
+      "PRICE": 3.43,
+      "PER PIECE": 1,
+      "GST": 0.12,
+      "EXPIRY": "03\/31\/2025",
+      "STOCK": 320,
+      "ORDER": false,
+      "BATCH NO": "T-3839"
+    },
+    {
+      "BRAND": "Azithromycin 250",
+      "CATEGORY": "Tablet",
+      "NAME": "T. Azithromycin 250",
+      "QUANTITY": 10,
+      "PRICE": 130,
+      "PER PIECE": 13,
+      "GST": 0.12,
+      "EXPIRY": "04\/30\/2024",
+      "STOCK": 480,
+      "ORDER": true,
+      "BATCH NO": "T2141"
+    },
+    {
+      "BRAND": "Aaziwoo 500",
+      "CATEGORY": "Tablet",
+      "NAME": "T. Azithromycin 500",
+      "QUANTITY": 5,
+      "PRICE": 118,
+      "PER PIECE": 24,
+      "GST": 0.12,
+      "EXPIRY": "05\/31\/2024",
+      "STOCK": 100,
+      "ORDER": true,
+      "BATCH NO": "APTU1849"
+    },
+    {
+      "BRAND": "Azrolid 100",
+      "CATEGORY": "Syrup",
+      "NAME": "Syp. Azithromycin 100",
+      "QUANTITY": 1,
+      "PRICE": 28,
+      "PER PIECE": 28,
+      "GST": 0.12,
+      "EXPIRY": "11\/30\/2024",
+      "STOCK": 20,
+      "ORDER": false,
+      "BATCH NO": "ASLH23004"
+    },
+    {
+      "BRAND": "Azrolid 200",
+      "CATEGORY": "Syrup",
+      "NAME": "Syp. Azithromycin 200",
+      "QUANTITY": 1,
+      "PRICE": 55,
+      "PER PIECE": 55,
+      "GST": 0.12,
+      "EXPIRY": "05\/31\/2024",
+      "ORDER": true,
+      "BATCH NO": "ATLH22010"
+    },
+    {
+      "BRAND": "Becominta total",
+      "CATEGORY": "Tablet",
+      "NAME": "T. Becominta total",
+      "QUANTITY": 10,
+      "PRICE": 120,
+      "PER PIECE": 12,
+      "GST": 0.12,
+      "EXPIRY": "04\/30\/2024",
+      "STOCK": 310,
+      "ORDER": false,
+      "BATCH NO": 13732002
+    },
+    {
+      "BRAND": "Fungiset 200",
+      "CATEGORY": "Tablet",
+      "NAME": "T. Fluconazole",
+      "QUANTITY": 1,
+      "PRICE": 14.25,
+      "PER PIECE": 15,
+      "GST": 0.12,
+      "EXPIRY": "10\/31\/2025",
+      "STOCK": 5,
+      "ORDER": false,
+      "BATCH NO": 4912005
+    },
+    {
+      "BRAND": "Gpride M1",
+      "CATEGORY": "Tablet",
+      "NAME": "T. GM 1",
+      "QUANTITY": 10,
+      "PRICE": 75,
+      "PER PIECE": 8,
+      "GST": 0.12,
+      "EXPIRY": "11\/30\/2024",
+      "STOCK": 350,
+      "ORDER": false,
+      "BATCH NO": "2314836T002"
+    },
+    {
+      "BRAND": "Gpride M2",
+      "CATEGORY": "Tablet",
+      "NAME": "T. GM 2",
+      "QUANTITY": 10,
+      "PRICE": 95,
+      "PER PIECE": 10,
+      "GST": 0.12,
+      "EXPIRY": "06\/30\/2025",
+      "STOCK": 400,
+      "ORDER": false,
+      "BATCH NO": "231487T006"
+    },
+    {
+      "BRAND": "Grochamp",
+      "CATEGORY": "Drops",
+      "NAME": "Drops. MVT+ZINC",
+      "QUANTITY": 1,
+      "PRICE": 85,
+      "PER PIECE": 85,
+      "GST": 0.12,
+      "EXPIRY": "07\/31\/2024",
+      "STOCK": 2,
+      "ORDER": false,
+      "BATCH NO": "CPLH23001"
+    },
+    {
+      "BRAND": "Itrostred 200",
+      "CATEGORY": "Capsule",
+      "NAME": "C. Itraconazole",
+      "QUANTITY": 10,
+      "PRICE": 310,
+      "PER PIECE": 31,
+      "GST": 0.12,
+      "EXPIRY": "07\/31\/2024",
+      "STOCK": 10,
+      "ORDER": false,
+      "BATCH NO": 5352007
+    },
+    {
+      "BRAND": "Joymol m",
+      "CATEGORY": "Syrup",
+      "NAME": "Syp. Joymol m",
+      "QUANTITY": 1,
+      "PRICE": 44,
+      "PER PIECE": 44,
+      "GST": 0.12,
+      "EXPIRY": "08\/31\/2024",
+      "STOCK": 20,
+      "ORDER": false,
+      "BATCH NO": "ASW22047"
+    },
+    {
+      "BRAND": "Kuftive",
+      "CATEGORY": "Tablet",
+      "NAME": "T. Kuftive",
+      "QUANTITY": 10,
+      "PRICE": 30,
+      "PER PIECE": 3,
+      "GST": 0.12,
+      "EXPIRY": "03\/31\/2025",
+      "STOCK": 300,
+      "ORDER": false,
+      "BATCH NO": 5083003
+    },
+    {
+      "BRAND": "Kuftive SG",
+      "CATEGORY": "Capsule",
+      "NAME": "Kuftive SG",
+      "QUANTITY": 10,
+      "PRICE": 75,
+      "PER PIECE": 8,
+      "GST": 0.12,
+      "EXPIRY": "10\/31\/2024",
+      "STOCK": 190,
+      "ORDER": false,
+      "BATCH NO": "5D43838"
+    },
+    {
+      "BRAND": "Lactosalt DS",
+      "CATEGORY": "Tablet",
+      "NAME": "T. Lee biotic",
+      "QUANTITY": 15,
+      "PRICE": 64.5,
+      "PER PIECE": 5,
+      "GST": 0.12,
+      "EXPIRY": "10\/31\/2024",
+      "STOCK": 40,
+      "ORDER": false,
+      "BATCH NO": "G2BB22023"
+    },
+    {
+      "BRAND": "Leekuf",
+      "CATEGORY": "Tablet",
+      "NAME": "T. Leekuf",
+      "QUANTITY": 10,
+      "PRICE": 30,
+      "PER PIECE": 3,
+      "GST": 0.12,
+      "EXPIRY": "11\/30\/2024",
+      "STOCK": 500,
+      "ORDER": false,
+      "BATCH NO": 5972021
+    },
+    {
+      "BRAND": "Levocetirizine",
+      "CATEGORY": "Tablet",
+      "NAME": "T. Lc",
+      "QUANTITY": 10,
+      "PRICE": 62.7,
+      "PER PIECE": 7,
+      "GST": 0.12,
+      "EXPIRY": "03\/31\/2025",
+      "STOCK": 1210,
+      "ORDER": false,
+      "BATCH NO": "AFB23H66"
+    },
+    {
+      "BRAND": "Levocetrizen",
+      "CATEGORY": "Syrup",
+      "NAME": "Syp. LC",
+      "QUANTITY": 1,
+      "PRICE": 42,
+      "PER PIECE": 42,
+      "GST": 0.12,
+      "EXPIRY": "08\/31\/2024",
+      "STOCK": 17,
+      "ORDER": false,
+      "BATCH NO": "LAR-22469"
+    },
+    {
+      "BRAND": "Livogen",
+      "CATEGORY": "Tablet",
+      "NAME": "T. Livogen",
+      "QUANTITY": 15,
+      "PRICE": 76.1,
+      "PER PIECE": 6,
+      "GST": 0.12,
+      "EXPIRY": "01\/31\/2024",
+      "STOCK": 10,
+      "ORDER": false,
+      "BATCH NO": "2042C84212"
+    },
+    {
+      "BRAND": "Livogen Syrup",
+      "CATEGORY": "Syrup",
+      "NAME": "Syp. Livogen",
+      "QUANTITY": 1,
+      "PRICE": 158,
+      "PER PIECE": 158,
+      "GST": 0.12,
+      "EXPIRY": "12\/31\/2023",
+      "STOCK": 1,
+      "ORDER": true,
+      "BATCH NO": "M28HK22014"
+    },
+    {
+      "BRAND": "Loplock",
+      "CATEGORY": "Tablet",
+      "NAME": "T. Loplock",
+      "QUANTITY": 10,
+      "PRICE": 20,
+      "PER PIECE": 2,
+      "GST": 0.12,
+      "EXPIRY": "10\/31\/2024",
+      "STOCK": 200,
+      "ORDER": true,
+      "BATCH NO": 7893
+    },
+    {
+      "BRAND": "Methylprednisolone",
+      "CATEGORY": "Tablet",
+      "NAME": "T. Methylpredni",
+      "QUANTITY": 10,
+      "PRICE": 63.39,
+      "PER PIECE": 7,
+      "GST": 0.12,
+      "EXPIRY": "05\/31\/2024",
+      "ORDER": true
+    },
+    {
+      "BRAND": "Metronidazole 200",
+      "CATEGORY": "Tablet",
+      "NAME": "T. Metro 200",
+      "QUANTITY": 10,
+      "PRICE": 6,
+      "PER PIECE": 1,
+      "GST": 0.12,
+      "EXPIRY": "05\/31\/2024",
+      "STOCK": 450,
+      "ORDER": true,
+      "BATCH NO": 7719
+    },
+    {
+      "BRAND": "Metronidazole 400",
+      "CATEGORY": "Tablet",
+      "NAME": "T. Metro 400",
+      "QUANTITY": 10,
+      "PRICE": 16,
+      "PER PIECE": 2,
+      "GST": 0.12,
+      "EXPIRY": "06\/30\/2024",
+      "STOCK": 930,
+      "ORDER": false,
+      "BATCH NO": "RID-2105"
+    },
+    {
+      "BRAND": "Minolast fxa",
+      "CATEGORY": "Tablet",
+      "NAME": "T. Minolast Fxa",
+      "QUANTITY": 10,
+      "PRICE": 200,
+      "PER PIECE": 20,
+      "GST": 0.12,
+      "EXPIRY": "03\/31\/2024",
+      "STOCK": 10,
+      "ORDER": true,
+      "BATCH NO": "SGV0145"
+    }
+  ],
+  "DUMMY URINE ROUTINE": [
+    {
+      "TEST": "COLOUR",
+      "VALUE": "REDDISH YELLOW",
+      "REFERENCE": "PALE YELLOW"
+    },
+    {
+      "TEST": "APPEARANCE",
+      "VALUE": "CLOUDY",
+      "REFERENCE": "CLEAR"
+    },
+    {
+      "TEST": "SPECIFIC GRAVITY",
+      "VALUE": 1.025,
+      "REFERENCE": "1.05-1.025"
+    },
+    {
+      "TEST": "PH",
+      "VALUE": 6.5,
+      "REFERENCE": "4.5-7.0"
+    },
+    {
+      "TEST": "ALBUMIN",
+      "VALUE": "\"+\"",
+      "REFERENCE": "NIL"
+    },
+    {
+      "TEST": "SUGAR",
+      "VALUE": "NIL",
+      "REFERENCE": "NIL"
+    },
+    {
+      "TEST": "KETONE",
+      "VALUE": "ABSENT",
+      "REFERENCE": "ABSENT"
+    },
+    {
+      "TEST": "UROBILINOGEN",
+      "VALUE": "NORMAL",
+      "REFERENCE": "NORMAL"
+    },
+    {
+      "TEST": "BLOOD",
+      "VALUE": "\"++\"",
+      "REFERENCE": "NIL"
+    },
+    {
+      "TEST": "PUS CELLS",
+      "VALUE": "04-Jun",
+      "REFERENCE": "0-5"
+    },
+    {
+      "TEST": "EPITHELIAL CELLS",
+      "VALUE": "02-Apr",
+      "REFERENCE": "0-5"
+    },
+    {
+      "TEST": "RBC'S",
+      "VALUE": "30-35",
+      "REFERENCE": "0-4"
+    },
+    {
+      "TEST": "CAST",
+      "VALUE": "NIL",
+      "REFERENCE": "NIL"
+    },
+    {
+      "TEST": "CRYSTALS",
+      "VALUE": "CALCIUM OXALATE",
+      "REFERENCE": "NIL"
+    },
+    {
+      "TEST": "BACTERIA",
+      "VALUE": "PRESENT"
+    },
+    {
+      "TEST": "OTHERS",
+      "VALUE": "NIL",
+      "REFERENCE": "NIL"
+    }
+  ]
+}
